@@ -1,1 +1,3 @@
 venv
+*_private.ipynb
+knn_extras
